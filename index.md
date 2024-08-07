@@ -1,17 +1,5 @@
-# Web Scraping
+# Census Data in R
 
-Web scraping is a technique used to collect information from the internet and save it so it can be analyzed as needed. Web scraping is usually done after a research question has been defined and will be part of the data gathering phase of the research lifecycle.
-
-This course will walk you through using several different strategies and several different python libraries to scrape data from the web and analyze it.  We will learn:
-
-- What web scraping is and why we would use web scraping to gather data
-- About the HTTP request and reponse process that is the foundation of the web
-- How to make requests and save the response from the web server(s)
-- How to analyze the structure of web pages so we can scrape specific data
-- How python scripts can be constructed to target specific data structures on web pages
-- How to direct the web scraper to navigate through a series of pages and scrape each one
-
-The content on the web is incredibly diverse, so web scraping scripts are usually custom built to target specific web sites and data.  These example projects will get you familiar with the various process and possibilities of web scraping so you can begin building a custom web scraper to target the web sites and information you are interested in.
 
 ### Digital Workshop Series
 You can find the complete list of Digital Scholarhsip Workshops here: You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
