@@ -6,7 +6,7 @@ These files support the Census Data in R tutorial, which can be found here. http
 
 If you do not want use the cloud options for running the lessons, you can clone the repo and run it locally in R Studio.
 
-VS Code has an excellent tutorial for getting started with Python in VS Code.
+Here are some quick instructions for setting up R and R Studio on your local machine.  Both pioeces of software are open source and free.
 [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
 
 ## Authors
