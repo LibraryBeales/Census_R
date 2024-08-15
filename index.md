@@ -11,6 +11,8 @@ Currently, the cloud options for running R lessons in Bindewr are slow and probl
 Here are some quick instructions for setting up R and R Studio on your local machine.  Again, both pieces of software are open source and free.
 [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
 
+If you need help installing R, please contact [freedmancenter@case.edu](freedmancenter@case.edu)
+
 ### Do I really need to web scrape?
 
 Data is available from many sources across a wide variety of disciplines.  If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
