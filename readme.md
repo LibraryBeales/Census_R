@@ -1,12 +1,12 @@
 # Digital Scholarship Workshop Series - Census Data in R
 
-These files support the Census Data in R tutorial, which can be found here. https://librarybeales.github.io/Census_R.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.  You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
+These files support the Census Data in R tutorial, which can be found here. https://librarybeales.github.io/Census_R.  This tutorial is part of a the CWRU Digital Scholarship Workshop Series.  You can find a directory of the currently available tutorials here: [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
 
 ## Run the lesson locally
 
-If you do not want use the cloud options for running the lessons, you can clone the repo and run it locally in R Studio.
+Currently, the cloud options for running R lessons are slow and problematic.  HOWEVER!  Because R is free and open source you can clone the repo and run it locally in R Studio.
 
-Here are some quick instructions for setting up R and R Studio on your local machine.  Both pioeces of software are open source and free.
+Here are some quick instructions for setting up R and R Studio on your local machine.  Again, both pieces of software are open source and free.
 [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
 
 ## Authors
