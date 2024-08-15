@@ -19,6 +19,7 @@ Data is available from many sources across a wide variety of disciplines.  If yo
 
 So before you resort to web scraping, see if you can locate the data eleswhere. Contacting a research Librarian is an excellent first step.  Case Western also has a research data index here: <a href ="link!">Data Index</a> 
 
+Have a nice day!
 
 ## Project #1: Making an HTTP Request and Receiving a Response
 
