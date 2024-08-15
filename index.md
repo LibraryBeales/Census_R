@@ -2,7 +2,7 @@
 
 
 ### Digital Workshop Series
-You can find the complete list of Digital Scholarhsip Workshops here: You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
+You can find a directory of the currently available tutorials here:  [https://librarybeales.github.io/dsworkshops/](https://librarybeales.github.io/dsworkshops/)
 
 ### Constellate or Binder?
 
