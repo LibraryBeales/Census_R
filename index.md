@@ -15,7 +15,7 @@ If you need help installing R, please contact [freedmancenter@case.edu](mailto:f
 
 ### Why use Census Data?
 
-Data is available 
+Data is available all kinds!!
 
 Have a nice day!
 
