@@ -13,11 +13,9 @@ Here are some quick instructions for setting up R and R Studio on your local mac
 
 If you need help installing R, please contact [freedmancenter@case.edu](mailto:freedmancenter@case.edu).
 
-### Do I really need to web scrape?
+### Why use Census Data?
 
-Data is available from many sources across a wide variety of disciplines.  If you can find a relevant dataset, it will almost always be easier to use than something scraped from the web.  The data from web scraping usually need significant parsing and cleaning in order to be useful.  
-
-So before you resort to web scraping, see if you can locate the data eleswhere. Contacting a research Librarian is an excellent first step.  Case Western also has a research data index here: <a href ="link!">Data Index</a> 
+Data is available 
 
 
 ## Project #1: Making an HTTP Request and Receiving a Response
