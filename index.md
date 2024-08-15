@@ -18,15 +18,9 @@ If you need help installing R, please contact [freedmancenter@case.edu](mailto:f
 Data is available 
 
 
-## Project #1: Making an HTTP Request and Receiving a Response
+## Project #1: Census API
 
-This first project will use the `requests` package to introduce the basic web scraping workflow.  All the lessons on this page use <a href="https://books.toscrape.com/">Books to Scrape</a> as the example website.  As you can probably tell from the name, this is a website set up specifically for practicing web scraping.
-
-In this project you will:
-1. Send a request to a web server.
-2. Check for a response.
-3. View the content of that response.
-4. Write that content to a file. 
+CONNECT!
 
 <a href="https://constellate.org/lab?repo=https%3A%2F%2Fgithub.com%2FLibraryBeales%2FWeb-Scraping&filepath=scrape1.ipynb" target="_blank">![A constellate launch button](https://constellate.org/images/constellate-badge.svg)</a>   <a href="https://mybinder.org/v2/gh/LibraryBeales/Census_R/HEAD?labpath=rstudio" target="_blank">![A binder launch button](https://mybinder.org/static/images/badge_logo.svg)</a>
 
