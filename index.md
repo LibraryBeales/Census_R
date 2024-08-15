@@ -11,7 +11,7 @@ Currently, the cloud options for running R lessons in Bindewr are slow and probl
 Here are some quick instructions for setting up R and R Studio on your local machine.  Again, both pieces of software are open source and free.
 [Installing R and RStudio](https://rstudio-education.github.io/hopr/starting.html)
 
-If you need help installing R, please contact [freedmancenter@case.edu](mailto:freedmancenter@case.edu)
+If you need help installing R, please contact [freedmancenter@case.edu](mailto:freedmancenter@case.edu).
 
 ### Do I really need to web scrape?
 
